@@ -2,7 +2,7 @@
 
 ### A simple modal .
 
-### View my deployed app at :- https://sahil9818336328.github.io/Modal/
+#### View my deployed app at :- https://sahil9818336328.github.io/Modal/
 
 # Technologies used: 
 
