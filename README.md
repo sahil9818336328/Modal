@@ -1,6 +1,8 @@
 # Modal
 
-### A simple modal with open and close functionality .
+### A simple modal .
+
+### View my deployed app at :- https://sahil9818336328.github.io/Modal/
 
 # Technologies used: 
 
